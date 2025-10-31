@@ -13,13 +13,17 @@ Coonstrap is only supported for PCs running Micro$oft Windows obiously.
 
 ## Frequently Asked Questions
 
-**Q: Is this malware?**
+**Q: Is this malware/crapware/trojan?**
 
 **A:** No. The source code here is viewable to all (despite that this repo was forked for my self-taught WPF/WinUI programming) to keep things transparent.
 
 **Q: Can using this get me banned/pwn3d?**
 
 **A:** No, it shouldn't as this isn't even a bogus script-kiddie unlimited Robux nor speedhack engine fuckery.
+
+**Q: Dude, WWhy does it still has many reference to Bloxstrap?**
+
+**A:** Well, This was a direct fork from that to make it more convinient for my usage purpose.
 
 ## Features
 
