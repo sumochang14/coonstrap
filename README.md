@@ -1,13 +1,10 @@
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap.png" width="380">
-
-# Coonstrap
 </p>
 
 ## ADVISORY!
 
 > [!CAUTION]
-
 > Coonstrap is only meant to be my peronal resaerch and self-studies so it isn't meant to be used as is. If you are looking for Roblox bootstrapper, Check out Voidstrap/Froststrap/Fishstrap (Google/DuckDuckGo it yourself) Also regarding the name of this repo, Think Japanese raccoon dog as this wasn't meant to me racist on anyone.
 
 ----
