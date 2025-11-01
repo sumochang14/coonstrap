@@ -11,7 +11,7 @@
 
 ----
 
-Coonstrap is an experiemental third-party replacement for the standard Roblox bootstrapper which to be honest, It was quite barebone as Doraemon's feces.
+Coonstrap is an experiemental third-party replacement for the standard Roblox bootstrapper which to be honest, It was quite barebone as scrambled eggs.
 
 Coonstrap is only supported for PCs running Micro$oft Windows obiously.
 
