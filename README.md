@@ -1,11 +1,13 @@
+<!--
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap.png" width="380">
 </p>
+-->
 
 # ADVISORY!
 
 > [!CAUTION]
-> Coonstrap is only meant to be my peronal resaerch and self-studies so it isn't meant to be used as it is. If you are looking for Roblox bootstrapper, Check out Voidstrap/Froststrap/Fishstrap (Google/DuckDuckGo/Baidu/Bing it by yourself).
+> Coonstrap is only meant to be my peronal resaerch and self-studies so it isn't meant to be used as it is. If you are really looking for Roblox bootstrapper, Please check out either OG Bloxstrap or Voidstrap/Froststrap/Fishstrap (Google/DuckDuckGo/Baidu/Bing it by yourself).
 
 ----
 
