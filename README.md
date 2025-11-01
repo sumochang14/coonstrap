@@ -5,7 +5,7 @@
 # ADVISORY!
 
 > [!CAUTION]
-> Coonstrap is only meant to be my peronal resaerch and self-studies so it isn't meant to be used as is. If you are looking for Roblox bootstrapper, Check out Voidstrap/Froststrap/Fishstrap or even OG Bloxstrap (Google/DuckDuckGo/Baidu/Bing it yourself as I'm not your dad) Also regarding the name of this repo, Think of some random Japanese raccoon dog as this wasn't meant to me racist on anyone.
+> Coonstrap is only meant to be my peronal resaerch and self-studies so it isn't meant to be used as it is. If you are looking for Roblox bootstrapper, Check out Voidstrap/Froststrap/Fishstrap (Google/DuckDuckGo/Baidu/Bing it by yourself).
 
 ----
 
@@ -21,11 +21,11 @@ Coonstrap is only supported for PCs running Micro$oft Windows obiously.
 
 **Q: Can using this get me banned/pwn3d?**
 
-**A:** No, it shouldn't as this isn't even a bogus script-kiddie unlimited Robux generator nor speedhack engine fuckery.
+**A:** No, it shouldn't as this isn't even a bogus script-kiddie unlimited Robux generator nor speedhack engine fuckery so it's moot.
 
 **Q: Dude, Why does it still has many reference to Bloxstrap?**
 
-**A:** Well, This was a direct fork from that to make it more convinient for my intended usage purpose.
+**A:** Well, This was a direct fork from that to make it more convinient for my intended usage purpose so it's not like Command+C Command+V plagiarise nor 1 to 1 carbon copy.
 
 ## Features
 
